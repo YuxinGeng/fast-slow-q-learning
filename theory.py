@@ -18,10 +18,6 @@ sns.set_style('whitegrid')
 from tqdm import tqdm, trange
 from typing import Tuple, List, Dict, Any, Optional, Union, Callable, NamedTuple
 
-import networkx as nx
-
-from utils import create_random_regular_graph, create_lattice_graph, adjacency_to_neighbors
-
 
 @jit
 def softmax(Q_mesh, beta):
