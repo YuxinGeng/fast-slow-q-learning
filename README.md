@@ -9,10 +9,6 @@ This repository contains:
 - The Supplementary Material.
 - The code to reproduce all figures, in which we validate the theoretical model against agent-based simulations.
 
-## Overview
-
-
-
 ## Repository structure
 
 | File | Description |
